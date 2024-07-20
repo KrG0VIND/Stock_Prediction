@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 model = load_model('stock price prediction.keras')
 
-st.markdown('<h1 style="color:#804A17;">Stock Market Predictor</h1>', unsafe_allow_html=True)
+st.markdown('<h1 style="color:#804A17;">Stock Market Predictors</h1>', unsafe_allow_html=True)
 st.markdown('<hr style="border:1px solid black;">', unsafe_allow_html=True  )
 
 popular_stocks = [
